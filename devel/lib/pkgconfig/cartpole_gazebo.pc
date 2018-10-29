@@ -1,0 +1,8 @@
+prefix=/usr/local/gym/catkin_ws/devel
+
+Name: cartpole_gazebo
+Description: Description of cartpole_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/gym/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+cartpole_gazebo
+-DCATKIN_DEVEL_PREFIX=/usr/local/gym/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/usr/local/gym/catkin_ws/install -G Unix Makefiles
